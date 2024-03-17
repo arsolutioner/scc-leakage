@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "security-testing-scc",
+  "private_key_id": "ffbfb81d8b27a98cd799f7d9abff394779369c17",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCETYmNeYdK+hn6\nBP8LrtEA2cvPB7kbirUm69CCakjBaCO1OXr8WF61avArAEpFnSbFpM8Ii8vefufz\nLDOtzStClkGCT7YtTf20pB1mY2tjoux/wVOHDiGZEvhr55J4Nw7IHF4s8EXIGKpL\nf0vNMEo7JUo908x4uORtOMuN70wNJMjjKcTD8ctgFMCwWIPktiDRorKKr9EQ+vgj\nxhJfj3KvmNfLkicZIYw91lOFkA+/I8PhBORG/DIvNaPXA9gnkyJtWpJcWKbpaZij\narDoZSv54HrocOaiESc86HGwpciuoBusT4CarR2LjqUclKyq7Xopqy6x3v1fP2YQ\n9OHveiUxAgMBAAECggEAKUsmHqEKyC0NhIqgrB3RIAnaYfDQJreBWPeLKdlQggUl\n9/9L0o0maktJULKTe+zT2CZbdBhl9jj33l8ydhGuaecJ5UlJ3BQWlpYOkxF+yCdm\n120Yy/NuKx/Pp6Ysghb1JyIrhq0rqouAQ3Yky5NB5/n4lRmRHTDgIvLyHYfN3d/l\nasXN3hNj9qARw0lwedMjUlhJeU49w5f/x3GhnEsNLZDAB77mxQ13QL1HWJJuy3N5\nULlcNONqhIjVmAVgDBsPBb4dgFfywWKh0+zEYCDp8kZPi3zryxEFdzV2bSUM3dnt\n6JRlj4qRMZat8diLmc9fv4nbgCe9H6QNIX9QRIS5fQKBgQC6k3SX3gq7t4wNW9+z\nUJth7myuxxurj9vdkT0vMZ5frpdgxOH1Z9NYUuO1wqWl1PXibJ2i+3IWHg+mTRTA\n1Dwq9uhAXqLBsbplCrFxsWtIMmM/PO0XUcFDn1rsjZvAvE1o6JV/RE9y+qKwaDsE\numRYlOgMRK4tcDLiHIoQ7AmU9wKBgQC1iDlUJcCWteMrKMdQRMMv215qkc8a5+/9\n21ftTiXR+rYgxvLk4wz+kAR/4HRaP0E1CrDbt80mHgwYPFbxKRMFBOszyTQMUtZy\nYPXq0CJtAcUF4cARPo4iKfZtfOfKAnuZ6lUXwMToeium5yf2+0yTRV7JV7YiTfme\nx9hD9+aVFwKBgCbLYFPvpHWxzZo9fz8uxJBRXiHdXsCGkiX4/Cri+1ZT3EAP0BgR\n9Z0I5zY0+fKIXHQvN3vbIra8m25t2qHZv4UDf/ladCcoSGSYG5tTU8ZYS9CrX3UY\n18Gy0dob+8XQoZvtuKAU2RxERy29DoCGLTVKCRH7+eeSy9G+M2sfWUKzAoGAeYqO\nj7eDHaUERzZTVHvlj5o5ufKMDsCx327HjRwgmFlbLdDmebdHUP1N9exrGq11VDUn\nOsTyNw4xHNzxfR/6GwczDwYssf+YkxY2MJRQKFnh91ExzpnqghdEZgQWERvec6wA\ncxne/KQnq+TizittFsGAeCAg0xEQC25UbxWArdsCgYBMkocrr44jGXVhgiC2OUhN\nGAenUbB/al2oJZs3yFFHKKkiPrJ2NDwkm+LphKG4dI7xPN9M4lqPupT28SkDawCE\n8oa4LZ9HLM95m685l77bLWcNe0wxfk2LRZKeaS6tY9FAIEfshJrjTW4vvP5LqUsI\nP/KGCnyQ0Hr31mvgBJd47Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "creds-leakeage-scc@security-testing-scc.iam.gserviceaccount.com",
+  "client_id": "100067119360602025685",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/creds-leakeage-scc%40security-testing-scc.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
